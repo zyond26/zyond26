@@ -1,7 +1,7 @@
                                                               Hi there 👋
 
 
-                                      
+                            
 😁 I'm Diệu, a passionate technology student with a strong interest in Artificial Intelligence (AI) and its potential to transform the world. I thrive on solving complex problems, exploring cutting-edge technologies, and continuously learning to improve my skills.
 
 💡 My journey into AI started with a deep curiosity for machine learning, deep learning, and data science. I am eager to explore more about natural language processing (NLP), computer vision, and AI ethics.
