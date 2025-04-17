@@ -1,8 +1,8 @@
-                                                              Hi there 👋
+                                                              Helloooooo  👋
 
 
                             
-😁 I'm Diệu.
+😁 I'm Diệu. -- nick name : zyo 
 
 💡 I try my best to become a hacker =)))
 
