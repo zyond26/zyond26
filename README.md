@@ -1,7 +1,8 @@
                                                               Helloooooo  👋
 
 
-                            ![image](https://github.com/user-attachments/assets/95d4822d-edad-483f-a171-a174f7d02561)
+
+
 
 😁 I'm Diệu. -- nick name : zyo 
 
