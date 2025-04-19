@@ -4,7 +4,7 @@
 
 
 
-😁 I'm Diệu. -- nick name : zyo 
+😁 I'm Diệu. 
 
 💡 I try my best to become a hacker =)))
 
