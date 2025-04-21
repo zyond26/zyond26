@@ -4,7 +4,7 @@
 
 
 
-😁 I'm Diệu. 
+😁 I am Nguyen Thi Dieu
 
 💡 I try my best to become a hacker =)))
 
@@ -12,4 +12,4 @@
 
 🔭 I want to learn more about cybersecurity
 
-Let’s connect and explore the future of Cybersecuritytogether!
+Let’s connect and explore the future of Cybersecurity together!
