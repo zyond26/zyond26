@@ -1,4 +1,4 @@
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Helloo,I+am+Nguyen+Thi+Dieu)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Hellooo,I+am+Nguyen+Thi+Dieu)
 
 
 # 💫 About Me:
@@ -16,7 +16,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyond26&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zyond26&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyond26&show_icons=true&theme=merko)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zyond26&theme=merko)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyond26&layout=compact&theme=merko)
+
 
 ## 🌐 Let’s Connect Together!
 I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 🔒
