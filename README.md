@@ -1,4 +1,4 @@
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Hellooo,I+am+Nguyen+Thi+Dieu)
+[Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Hellooo,I+am+Nguyen+Thi+Dieu&background=00FF00)
 
 
 # 💫 About Me:
