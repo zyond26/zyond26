@@ -15,20 +15,8 @@ CTF Enthusiast Badge: ![CTF Enthusiast](https://img.shields.io/badge/CTF-Enthusi
 
 🔥 My Stats
 
-
-Detailed Stats:
-
-⭐ Total Stars Earned: (Automatically shown in GitHub Stats card)
-🖥️ Total Commits (2025): (Automatically shown in GitHub Stats card)
-📈 Total PRs: (Automatically shown in GitHub Stats card)
-🐞 Total Issues: (Automatically shown in GitHub Stats card)
-🤝 Contributed to: (Automatically shown in GitHub Stats card)
-🔥 Current Streak: (Automatically shown in Streak Stats card)
-🏆 Longest Streak: (Automatically shown in Streak Stats card)
-
-
-GitHub Stats: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyond26&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF5555&icon_color=55FF55)  
-Streak Stats: ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zyond26&theme=radical&hide_border=true&background=1a1b27&stroke=FF5555&ring=55FF55&fire=FF5555&currStreakNum=55FF55&sideNums=55FF55&currStreakLabel=FF5555&sideLabels=55FF55&dates=AAAAAA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyond26&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF5555&icon_color=55FF55)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zyond26&theme=radical&hide_border=true&background=1a1b27&stroke=FF5555&ring=55FF55&fire=FF5555&currStreakNum=55FF55&sideNums=55FF55&currStreakLabel=FF5555&sideLabels=55FF55&dates=AAAAAA)
 
 
 📊 Most Used Languages
@@ -46,35 +34,18 @@ Bash Badge: ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&l
 
 
 Cybersecurity Tools:  
-
-
 Wireshark Badge: ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)  
 Metasploit Badge: ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white)  
 Nmap Badge: ![Nmap](https://img.shields.io/badge/Nmap-00C7B7?style=flat-square&logo=nmap&logoColor=white)
-
-
-Other Skills: Network Security • Cryptography • Penetration Testing
-
-
 
 🏆 Featured Project
 
 🔍 CTF Challenge SolverA Python-based tool to automate solving Capture The Flag challenges.  
 
-Stars Badge: ![Stars](https://img.shields.io/github/stars/zyond26/ctf-solver?style=social)
+![Stars](https://img.shields.io/github/stars/zyond26/ctf-solver?style=social)
 
 
 
 
 🌐 Let’s Connect & Hack Together!
 I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 🔒
-
-  
-
-
-Email Badge: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-LinkedIn Badge: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
-Twitter Badge: ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-💬 Challenge Me: Send me a cybersecurity riddle, and I’ll solve it! 🧩
-
