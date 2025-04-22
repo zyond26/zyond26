@@ -1,6 +1,4 @@
-
-  🔐 Helloooo! I’m Nguyen Thi Dieu 👾
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF5555¢er=true&vCenter=true&width=500&lines=Helloo)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Helloo,i+am+Nguyen+Thi+Dieu)
 
 
 🌟 About Me
@@ -11,20 +9,11 @@ Hey there! I’m Nguyen Thi Dieu (aka zyond26), a Cybersecurity Enthusiast on a 
 🚀 My Goal: Protect the digital world, one hack at a time.
 
 
-  
-  
-
-
-Links for Badges:  
-
 Ethical Hacker Badge: ![Ethical Hacker](https://img.shields.io/badge/Hacker-Ethical-FF5555?style=for-the-badge&logo=shield)  
 CTF Enthusiast Badge: ![CTF Enthusiast](https://img.shields.io/badge/CTF-Enthusiast-55FF55?style=for-the-badge&logo=flag)
 
 
 🔥 My Stats
-
-  
-  
 
 
 Detailed Stats:
@@ -37,18 +26,12 @@ Detailed Stats:
 🔥 Current Streak: (Automatically shown in Streak Stats card)
 🏆 Longest Streak: (Automatically shown in Streak Stats card)
 
-Links for Stats Cards:  
 
 GitHub Stats: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyond26&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF5555&icon_color=55FF55)  
 Streak Stats: ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zyond26&theme=radical&hide_border=true&background=1a1b27&stroke=FF5555&ring=55FF55&fire=FF5555&currStreakNum=55FF55&sideNums=55FF55&currStreakLabel=FF5555&sideLabels=55FF55&dates=AAAAAA)
 
 
 📊 Most Used Languages
-
-  
-
-
-Link for Top Languages:  
 
 Top Languages: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyond26&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF5555&icon_color=55FF55)
 
@@ -57,15 +40,13 @@ Top Languages: ![Top Languages](https://github-readme-stats.vercel.app/api/top-l
 Here’s my hacker toolkit! 🧰 I’m constantly learning and experimenting with new tools and techniques.
 
 Languages:  
-Links for Language Badges:  
-
 Python Badge: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 C Badge: ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
 Bash Badge: ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
 Cybersecurity Tools:  
-Links for Cybersecurity Tool Badges:  
+
 
 Wireshark Badge: ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)  
 Metasploit Badge: ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white)  
@@ -79,7 +60,6 @@ Other Skills: Network Security • Cryptography • Penetration Testing
 🏆 Featured Project
 
 🔍 CTF Challenge SolverA Python-based tool to automate solving Capture The Flag challenges.  
-Link for Project Badge:  
 
 Stars Badge: ![Stars](https://img.shields.io/github/stars/zyond26/ctf-solver?style=social)
 
@@ -90,23 +70,11 @@ Stars Badge: ![Stars](https://img.shields.io/github/stars/zyond26/ctf-solver?sty
 I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 🔒
 
   
-  
-  
 
-
-Links for Social Badges:  
 
 Email Badge: ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 LinkedIn Badge: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
 Twitter Badge: ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 💬 Challenge Me: Send me a cybersecurity riddle, and I’ll solve it! 🧩
-
-
-  
-
-
-Link for Visitor Badge:  
-
-Visitor Badge: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyond26.zyond26&color=FF5555&style=flat-square)
 
