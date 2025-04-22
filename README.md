@@ -1,4 +1,4 @@
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Helloo,i+am+Nguyen+Thi+Dieu)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Helloo,I+am+Nguyen+Thi+Dieu)
 
 
 # 💫 About Me:
@@ -18,5 +18,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zyond26&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-#🌐 Let’s Connect Together!
+## 🌐 Let’s Connect Together!
 I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 🔒
