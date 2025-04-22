@@ -6,7 +6,7 @@ I’m Nguyen Thi Dieu, a passionate Cybersecurity Enthusiast aiming to become a 
 🔒 Mission: Secure the digital world, one step at a time!
 🚀 Fun Fact: I love solving CTF challenges and decoding puzzles!
 📫 Let’s Connect: Email | LinkedIn | Twitter
-
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
 
 📊 My GitHub Stats
 
