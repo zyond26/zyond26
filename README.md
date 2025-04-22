@@ -1,9 +1,7 @@
 
   🔐 Helloooo! I’m Nguyen Thi Dieu 👾
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FF5555¢er=true&vCenter=true&width=500&lines=Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Challenge+Solver)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF5555¢er=true&vCenter=true&width=500&lines=Helloo)
 
-
-Link for Typing Animation:![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FF5555¢er=true&vCenter=true&width=500&lines=Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Challenge+Solver)
 
 🌟 About Me
 Hey there! I’m Nguyen Thi Dieu (aka zyond26), a Cybersecurity Enthusiast on a mission to become a skilled ethical hacker! 🕵️‍♀️ I’m passionate about cracking challenges, securing systems, and diving deep into the world of cybersecurity.
