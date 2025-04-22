@@ -1,5 +1,6 @@
                                                               Helloooooo  👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyond26&show_icons=true&theme=dark)
 
 
 
