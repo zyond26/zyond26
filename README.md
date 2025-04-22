@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FF5555¢er=true&vCenter=true&width=500&lines=Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Challenge+Solver)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FFF¢er=true&vCenter=true&width=500&lines=Hellooo,I+am+Nguyen+Thi+Dieu)
 
 # 💫 About Me:
 🔭 Currently working on coding masterpieces (or so I hope).<br>👯 Looking to collaborate on fun and quirky projects.<br>🤝 Need help decoding mysterious bugs.<br>🌱 Learning the art of clean code and messy snacks.<br>💬 Ask me about the magic of semicolons.<br>⚡ Fun fact: Coffee powers both my brain and my bugs<br>
