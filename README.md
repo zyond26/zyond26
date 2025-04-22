@@ -1,51 +1,22 @@
   ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=fff¢er=true&vCenter=true&width=500&lines=Helloo,i+am+Nguyen+Thi+Dieu)
 
 
-🌟 About Me
-Hey there! I’m Nguyen Thi Dieu (aka zyond26), a Cybersecurity Enthusiast on a mission to become a skilled ethical hacker! 🕵️‍♀️ I’m passionate about cracking challenges, securing systems, and diving deep into the world of cybersecurity.
-
-🔍 What I Do: Solve CTF challenges, learn ethical hacking, and explore tools like Wireshark and Metasploit.
-💡 Fun Fact: I once stayed up all night to solve a single cryptography puzzle—and I loved every second of it!
-🚀 My Goal: Protect the digital world, one hack at a time.
+# 💫 About Me:
+🔭 Currently working on coding masterpieces (or so I hope).<br>👯 Looking to collaborate on fun and quirky projects.<br>🤝 Need help decoding mysterious bugs.<br>🌱 Learning the art of clean code and messy snacks.<br>💬 Ask me about the magic of semicolons.<br>⚡ Fun fact: Coffee powers both my brain and my bugs<br>
 
 
-Ethical Hacker Badge: ![Ethical Hacker](https://img.shields.io/badge/Hacker-Ethical-FF5555?style=for-the-badge&logo=shield)  
-CTF Enthusiast Badge: ![CTF Enthusiast](https://img.shields.io/badge/CTF-Enthusiast-55FF55?style=for-the-badge&logo=flag)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nguyendieu_34/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.instagram.com/nguyendieu_34/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/NoTangerine6795/) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zyond26&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zyond26&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyond26&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🔥 My Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zyond26&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyond26&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF5555&icon_color=55FF55)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zyond26&theme=radical&hide_border=true&background=1a1b27&stroke=FF5555&ring=55FF55&fire=FF5555&currStreakNum=55FF55&sideNums=55FF55&currStreakLabel=FF5555&sideLabels=55FF55&dates=AAAAAA)
-
-
-📊 Most Used Languages
-
-Top Languages: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyond26&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF5555&icon_color=55FF55)
-
-
-🛠️ Skills & Tools
-Here’s my hacker toolkit! 🧰 I’m constantly learning and experimenting with new tools and techniques.
-
-Languages:  
-Python Badge: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-C Badge: ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
-Bash Badge: ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-
-Cybersecurity Tools:  
-Wireshark Badge: ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)  
-Metasploit Badge: ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white)  
-Nmap Badge: ![Nmap](https://img.shields.io/badge/Nmap-00C7B7?style=flat-square&logo=nmap&logoColor=white)
-
-🏆 Featured Project
-
-🔍 CTF Challenge SolverA Python-based tool to automate solving Capture The Flag challenges.  
-
-![Stars](https://img.shields.io/github/stars/zyond26/ctf-solver?style=social)
-
-
-
-
-🌐 Let’s Connect & Hack Together!
+#🌐 Let’s Connect Together!
 I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 🔒
