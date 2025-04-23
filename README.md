@@ -14,5 +14,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=zyond26&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Let’s Connect Together!
-I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 🔒
+I’m always up for a challenge or a chat about cybersecurity. Let’s collaborate and secure the future! 
 
