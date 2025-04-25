@@ -1,7 +1,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FFF¢er=true&vCenter=true&width=500&lines=Hello,I+am+Nguyen+Thi+Dieu)
 
 # 🙋‍♀️ About Me:
-🔭 Currently crafting coding masterpieces... or at least compiling without errors 😅
+🔭 Currently crafting coding masterpieces... or at least compiling without errors 😅<br>
 🐧 Always down to team up on wild, weird, and wonderful projects 🧪<br>
 🤝 Seeking brave souls to help debug the monsters I accidentally summoned 👾<br>
 🌱 On a journey to write cleaner code and messier snack trails 🍪. <br>💬 Ask me about the magic of semicolons.<br>⚡ Fun fact: Coffee powers both my brain and my bugs<br>
