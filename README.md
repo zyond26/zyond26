@@ -1,11 +1,11 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FFF¢er=true&vCenter=true&width=500&lines=Hello,I+am+Nguyen+Thi+Dieu)
 
 # 🙋‍♀️ About Me:
-🔭 i want to be a hacker like in the movies <br>
-🐧 Always down to team up on wild, weird, and wonderful projects<br>
+🔭 I want to be a hacker like in the movies <br>
+🐧 Always down to team up on wild, weird, and wonderful projects <br>
 🌱 On a journey to write cleaner code and messier snack trails. <br>
 💬 Ask me about the magic of semicolons.<br>
-⚡ Fun fact: Coffee powers both my brain and my bugs<br>
+⚡ Fun fact: Coffee powers both my brain and my bugs <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zyond26&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
