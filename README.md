@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FFF¢er=true&vCenter=true&width=500&lines=Hello,I+am+Nguyen+Thi+Dieu)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=FFF¢er=true&vCenter=true&width=500&lines=Hello,I+am+Nguyen+Thi+Dieu)
 
 # 🙋‍♀️ About Me:
 🔭 I want to be a hacker like in the movies <br>
