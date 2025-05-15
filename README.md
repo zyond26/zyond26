@@ -5,7 +5,7 @@
 🐧 Always down to team up on wild, weird, and wonderful projects <br>
 🌱 On a journey to write cleaner code and messier snack trails. <br>
 💬 Ask me about the magic of semicolons.<br>
-⚡ Fun fact: Coffee powers both my brain and my bugs <br>
+⚡ Fun fact: Coffee powers both my brain and my bugs 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zyond26&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
